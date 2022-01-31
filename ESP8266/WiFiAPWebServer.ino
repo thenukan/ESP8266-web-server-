@@ -9,8 +9,8 @@
 
 
 // Replace with your network credentials
-const char* ssid = "Dialog 4G 084";
-const char* password = "*******";
+const char* ssid = "Dialog 4G 084";// edit your wifi name
+const char* password = "*******"; // put your own WiFi pasword
 
 // Set web server port number to 80
 WiFiServer server(80);
